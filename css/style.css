@@ -1,0 +1,92 @@
+body{
+    text-align: center;
+    background-color: antiquewhite;
+    
+}
+
+#headerSection{
+    padding: 10px;
+
+    h1{
+        font-family: cursive;
+    }
+}
+
+input{
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#dropbox{
+    padding: 10px;
+    border-radius: 5px;
+    width: 15%;
+}
+
+#loginbtn{
+    width: 15%;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(111, 212, 252);
+    color: white;
+    font-size: 15px;
+    
+    
+}
+
+#address{
+    width: 29%;
+}
+
+#img{
+    width: 29%;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 8px;
+
+    
+}
+
+#role{
+    width: 29%;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+
+    select{
+        border-radius: 5px;
+        padding: 10px;
+    }
+}
+
+#registerbtn{
+    width: 20%;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(111, 212, 252);
+    color: white;
+    font-size: 15px;
+}
+
+
+#leftbtn{
+    width: 15%;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(111, 212, 252);
+    color: white;
+    font-size: 15px;
+    align-content: start;
+    float:left;
+}
+
+#rightbtn{
+    width: 15%;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(111, 212, 252);
+    color: white;
+    font-size: 15px;
+    align-content: start;
+    float:right;
+}
